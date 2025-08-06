@@ -1,7 +1,7 @@
 # G.I. Joe's Psy-Op: *Why You Should Be Terrified of Interfacing With Content Serving Algorithms:*
 In October 1990, Bush signed the Children's Telivision Act. A rare example of politicians actually "thinking of the children," the legislation was largely an attempt to prevent predatory advertising and the serving of low-quality content to the nations glue-eating Millenial youth. 
 Among the regulations was the prohibition of "host-selling," the practice of having the characters of a program directly advertise tie-in-products. It was thought that children did not have the cognitive ability to differentiate between a program and an advertisement containing the same characters. In their malleable brains, these characters are not functions of media, but actual social connections and role models, thus, harnessing their visage becomes an especially effective tactic of manipulation. "G.I. Joe needs my help. He needs me to buy this plastic jet, or else Cobra will defeat him." Now why does that sound familiar...
-Besides the obvious political slam dunk, I would argue that the problem of differentiating between content and advertisement is becoming an enormous issue in the newly AI-enabled web slop hell.
+Besides the obvious political slam dunk, I would argue that the problem of differentiating between content and advertisement is becoming an enormous issue.
 
 ### Control Systems:
 ---
@@ -30,7 +30,7 @@ Second to only "Nothing to Hide, nothing to fear" the most bullshit counterargum
 
 The final weakness of matrix factorization, and the reason it still produces a relatively "democratic" internet, is that we don't have enough knobs on it. But no longer! Now both sides of the box can be gooey, unmeasurable human vectors! 
 *"Computer, I want people to like me more, recommend videos on my platform in a way that makes them like me more."*
-*"Jarvis! Too many people on tik tok are calling Xi Jinping "Dictator Pooh Bear" Collate the accounts of those most likely to dissent, and change their for you page to make them suicidal!"*
+*"Jarvis! Too many people on tik tok are calling -- ----- "Dictator Pooh Bear" Collate the accounts of those most likely to dissent, and change their for you page to make them suicidal!"*
 
 -**Liquid You:**
 *"Your digital anolog watched this sequence of videos in the torture cube. Syncing your information now."*
