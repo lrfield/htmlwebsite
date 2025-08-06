@@ -45,8 +45,14 @@ Heat is about Vincent and Neil.
 
 For these people, isolation is the only possible mode of operation, anything else is a fantastically doomed notion.
 
-The tragedy is not that they *have* to drop everything when they see the heat around the corner, its that they *cant*.
+But they are human. They feel lonliness. For Vincent, he responds with anger and buries deeper into his work, for Neil, he starts looking for a way out.
 
-When Vincent and Neil meet, we see both, for the first time, find an equal. In a sea of stationary dolls, these are two real human beings straining forwards as fast as they can.
+When the two meet, we see both, for the first time, find an equal. In a sea of stationary dolls, these are two real human beings straining forwards as fast as they can.
 
-And then, for the same reason, it has to end.
+There is no traditional morality following the characters of this film. In the first scene all of our criminal protagonists massacre the innocent drivers of a armored truck just to leave less witnesses. But it doesn't matter, because in the end, there's only one law. The law of sacrifice. To be an excellent criminal, an excellent detective, you need to be able to drop everything in your life at a moments notice.
+
+Vincent can. He leaves his step daughter alone with her mother in the hospital after she attempts suicide.
+
+Neil can't. His obsessive need to tie up loose ends leaves him dead on an airstrip.
+
+While *God Moving Over the Face of the Waters Swells* swells in the background, we see Vincent accept it. He is more dedicated, more steadfast, and ultimately, more lonely.
