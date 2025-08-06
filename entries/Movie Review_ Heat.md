@@ -1,6 +1,6 @@
 # Oh My God
 
-## ![heat_1995_3-95725917.jpg](../entry_images/heat_1995_3-95725917.jpg)  
+## https://github.com/lrfield/htmlwebsite/blob/main/entry_images/heat_1995_3-95725917.jpg
 
 * * *
 
